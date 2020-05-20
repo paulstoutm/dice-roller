@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(155, 139, 139, 0.377);
+}
+#Roll{
+    background-color: rgba(215, 192, 231, 0.719);
+font-weight: bolder;
+font-style: italic;
+}
+#Show-All-Rolls{
+    background-color: rgba(215, 192, 231, 0.719);
+    font-weight: bolder;
+font-variant: small-caps;
+
+}
+#user-input{
+    background-color: khaki;
+    font-weight: bolder;
+    font-size: larger;
+   font-family: monospace;
+}
+#Total{
+    font-weight: bolder;
+}
+#All-Rolls{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(6, 7, 6);
+    
+    
+}
